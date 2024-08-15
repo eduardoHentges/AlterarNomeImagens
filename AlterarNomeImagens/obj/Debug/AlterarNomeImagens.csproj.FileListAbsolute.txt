@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\bin\Debug\AlterarNomeImagens.exe.config
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\bin\Debug\AlterarNomeImagens.exe
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\bin\Debug\AlterarNomeImagens.pdb
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.Properties.Resources.resources
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.exe
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.pdb
+C:\Users\eduar\source\repos\AlterarNomeImagens\AlterarNomeImagens\obj\Debug\AlterarNomeImagens.Form1.resources
